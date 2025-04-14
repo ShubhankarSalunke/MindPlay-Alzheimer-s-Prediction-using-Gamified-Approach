@@ -45,12 +45,8 @@ MindPlay is an AI-powered, interactive health monitoring platform that combines 
 
 ## 🧬 Alzheimer's Detection Pipeline
 
-1. **Game Interaction** →  
-2. **Feature Extraction (gameplay data)** →  
-3. **Preprocessing & Normalization** →  
-4. **Model Inference (XGBoost)** →  
-5. **Explanation Layer (SHAP)** →  
-6. **User Report**
+![- visual selection(2)](https://github.com/user-attachments/assets/85df398d-9c5e-4e7e-ae2e-3df2e9e2aaef)
+
 
 ---
 
